@@ -1,5 +1,13 @@
-/* DEUXE MEU CREDITOSNA CRIAÇÃO DO SISTEMA
-BY ALBINO MODS*/
+ DEUXE MEU CREDITOSNA CRIAÇÃO DO SISTEMA
+BY ALBINO MODS
+
+
+
+
+
+
+
+
 
 
 const fs = require("fs-extra");
